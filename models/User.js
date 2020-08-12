@@ -7,6 +7,6 @@ const userSchema = new Schema({
     type: Number,
     default: 0
   }
-})
+});
 
 mongoose.model('users', userSchema);
