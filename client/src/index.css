@@ -1,0 +1,16 @@
+.icon-background {
+  min-height: 75vh;
+  background: url(./icon.svg) no-repeat center center;
+  margin: -15px 0 0;
+}
+
+.landing-text {
+  background: rgba(0, 0, 0, 0.7);
+  max-width: 750px;
+  color: #dddddd;
+  margin: 15vh auto 0;
+}
+
+.landing-text > h4 {
+  padding-bottom: 35px;
+}
